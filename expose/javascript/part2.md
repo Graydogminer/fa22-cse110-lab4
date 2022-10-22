@@ -9,5 +9,5 @@
 9. Code will return an error because i is not defined
 10. 3
 11. [50, 100, 150]
-12. a) student.name b) 
-14. 
+12. a) student.name b) student['Grad Year'] c) student.greeting(); d) student['Favorite Teacher'].name e) student.courseLoad[0]
+13. 
