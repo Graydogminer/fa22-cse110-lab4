@@ -13,3 +13,7 @@
 13. a) 32 since 3 is a character, not a number which means output will be 32 instead of 5 b) 1 c) 3
 14. a) true b) false c) true d) false e) false f) true
 15. The difference between == and === is that == will do type coercion while === doesn't do type coercion.
+16. Created part2-question16.js
+17. The result is [2, 4, 6]. This is the case because 
+18. Created part2-question18.js
+19. 1 4 3 2
