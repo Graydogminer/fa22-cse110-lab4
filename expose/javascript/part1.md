@@ -4,4 +4,3 @@
 4. Code return an error because result is not defined
 5. Code return an error because you can't modify result when it's a constant
 6. Code return an error because you can't modify result when it's a constant
-7. 
